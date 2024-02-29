@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/mriyaz/expenses-chart-component-challenge)
-- [Live Site URL](https://expenses-chart-component-challenge-tau.vercel.app/)
+- [Live Site URL](https://expenses-chart-component-challenge-five.vercel.app/)
 
 ## My process
 
